@@ -24,7 +24,7 @@ get_header(); ?>
 
 	<div id="navigation" class="container">
 		<div class="left"><a href="<?php echo site_url('/blog/') ?>">&larr; <span>Back to posts</span></a></div>
-    </div>
+  </div>
 </section>
 
 <?php get_footer(); ?>
