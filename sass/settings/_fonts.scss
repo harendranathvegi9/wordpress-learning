@@ -1,0 +1,48 @@
+/** theme styles start here! **/
+
+/* FONTS */
+@font-face {
+    font-family: 'OpenSans';
+    src: url('fonts/opensans-regular.eot');
+    src: url('fonts/opensans-regular.eot?#iefix') format('embedded-opentype'),
+         url('fonts/opensans-regular.woff') format('woff'),
+         url('fonts/opensans-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'OpenSans';
+    src: url('fonts/opensans-bold.eot');
+    src: url('fonts/opensans-bold.eot?#iefix') format('embedded-opentype'),
+         url('fonts/opensans-bold.woff') format('woff'),
+         url('fonts/opensans-bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'OpenSans';
+    src: url('fonts/opensans-semibold.eot');
+    src: url('fonts/opensans-semibold.eot?#iefix') format('embedded-opentype'),
+         url('fonts/opensans-semibold.woff') format('woff'),
+         url('fonts/opensans-semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Montserrat';
+    src: url('fonts/montserrat-regular.eot');
+    src: url('fonts/montserrat-regular.eot?#iefix') format('embedded-opentype'),
+         url('fonts/montserrat-regular.woff') format('woff'),
+         url('fonts/montserrat-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Montserrat';
+    src: url('fonts/montserrat-bold.eot');
+    src: url('fonts/montserrat-bold.eot?#iefix') format('embedded-opentype'),
+         url('fonts/montserrat-bold.woff') format('woff'),
+         url('fonts/montserrat-bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}

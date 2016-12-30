@@ -1,0 +1,32 @@
+/*
+Theme Name: Skillcrush Starter Theme
+Author: the Skillcrush team
+Author URI: http://skillcrush.com
+Description: This theme is for use in Skillcrush 103, Skillcrush 203 and the Skillcrush WordPress Developer Career Blueprint.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: skillcrushstarter
+*/
+
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+// sass file;
+// to convert to css:
+// open Terminal, go to theme root folder,
+// type and enter "compass watch"
+// (watches based on instructions written in config.rb file)
+
+@import "compass";
+@import "compass/reset";
+
+@import "settings/index"; // global variables, configuration switches, font loading
+@import "tools/index"; // default mixins and functions
+@import "general/index"; // ground-zero styles such as normalize, resets, box-sizing
+@import "elements/index"; // unclassed HTML elements
+@import "objects/index"; // cosmetic-free design patterns
+@import "components/index"; // designed components, chunks of UI
+@import "overrides/index"; // helpers and overrides (ideally empty)

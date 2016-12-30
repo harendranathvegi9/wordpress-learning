@@ -1,0 +1,18 @@
+/* MAIN STYLES */
+header, footer, section, aside, time, article {
+	display: block;
+}
+a {
+	text-decoration: none;
+}
+html,
+body {
+	height: 100%;
+}
+body {
+	background: #fff;
+	border-top: 6px solid #45ac9d;
+	color: #3b3b3b;
+	font: 17px/1.65 'OpenSans', Arial, sans-serif;
+	letter-spacing: -0.01em;
+}
