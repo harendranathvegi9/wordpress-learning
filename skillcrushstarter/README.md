@@ -1,1 +1,3 @@
-experimenting with skillcrushstarter theme
+# skillcrushstarter
+
+learning from skillcrush, experimenting with theme
